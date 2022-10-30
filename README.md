@@ -30,4 +30,4 @@ I'm a Software Developer from [Uttarakhand](https://www.google.com/maps/@30.0667
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/> &nbsp; &nbsp;
 
 <br/> Thanks for Visiting. <br/>
-Let's [Connect](https://www.linkedin.com/in/abhishek-kathayat-197672130/).
+Let's [Connect](https://www.linkedin.com/in/abhishek-kathayat-197672130/)!
