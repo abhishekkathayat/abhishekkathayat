@@ -33,6 +33,7 @@ I'm a Software Developer from [Uttarakhand](https://www.google.com/maps/@30.0667
 <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" title="Neo4J" alt="Neo4J" width="40" height="40"/> &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/> &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle SQL" alt="Oracle SQL" width="50" height="50"/> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/> &nbsp; &nbsp;
 
 <br/> Thanks for Visiting. <br/>
 Let's [Connect](https://www.linkedin.com/in/abhishek-kathayat/)!
