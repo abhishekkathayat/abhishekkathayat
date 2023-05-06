@@ -9,11 +9,13 @@ I'm a Software Developer from [Uttarakhand](https://www.google.com/maps/@30.0667
 #### :hammer_and_wrench: Languages & Tools I'm currently working with:
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/> &nbsp; &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle SQL" alt="Oracle SQL" width="50" height="50"/> &nbsp; &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" alt="Kafka" width="40" height="40"/> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="38" height="38"/> &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/> &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="40" height="40"/> &nbsp; &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" title="Neo4J" alt="Neo4J" width="40" height="40"/> &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/> &nbsp; &nbsp;
 
 #### :hammer_and_wrench: Languages & Tools I've previously worked with:
@@ -28,6 +30,9 @@ I'm a Software Developer from [Uttarakhand](https://www.google.com/maps/@30.0667
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/> &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/> &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" title="Neo4J" alt="Neo4J" width="40" height="40"/> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle SQL" alt="Oracle SQL" width="50" height="50"/> &nbsp; &nbsp;
 
 <br/> Thanks for Visiting. <br/>
 Let's [Connect](https://www.linkedin.com/in/abhishek-kathayat/)!
