@@ -8,6 +8,6 @@
 I'm Abhishek Kathayat, a Full Stack Software Engineer from [Uttarakhand](https://www.google.com/maps/@30.066753,79.0193,7z), India. I enjoy tinkering with hardware and building software solutions. <br/>
 Checkout my profile [here](https://abhishek-kathayat.vercel.app).
 
-#### Stats:
+### Stats:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekkathayat&show_icons=true&theme=github_dark&rank_icon=github&hide=contribs&show=prs_merged,prs_merged_percentage) &nbsp; &nbsp;
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkathayat&layout=donut&theme=github_dark&langs_count=5)
