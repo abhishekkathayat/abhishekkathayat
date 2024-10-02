@@ -9,6 +9,6 @@ I'm Abhishek Kathayat, a Full Stack Software Engineer from [Uttarakhand](https:/
 
 ### Stats:
 <p float="left">
-<img height="220" src="https://github-readme-stats.vercel.app/api?username=abhishekkathayat&show_icons=true&theme=github_dark&rank_icon=github&hide=contribs&show=prs_merged,prs_merged_percentage"/>
-<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkathayat&layout=donut&theme=github_dark&langs_count=5"/>
+<img height="220" src="https://github-readme-stats.vercel.app/api?username=abhishekkathayat&show_icons=true&theme=github_light&rank_icon=github&hide=contribs&show=prs_merged,prs_merged_percentage"/>
+<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkathayat&layout=donut&theme=github_light&langs_count=5"/>
 </p>
